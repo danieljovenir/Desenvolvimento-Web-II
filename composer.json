@@ -1,8 +1,0 @@
-{
-    "name": "seunome/meuprojeto",
-    "description": "Meu projeto apenas vai estar criando um arquivo em pdf",
-    "type": "project",
-    "require": {
-        "mpdf/mpdf": "^8.2.1"
-    }
-}
